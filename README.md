@@ -22,5 +22,4 @@ google-chrome index.html
 - Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
 - If all spaces are filled, the game ends in a draw.
 
-
-
+ site is live at https://anjalipatil05.github.io/PRODIGY_WD_03/
